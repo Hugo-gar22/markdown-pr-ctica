@@ -33,6 +33,7 @@ Ya quedó en el ejemplo anterior con:
 ### Imagen local
 ![Logo del repositorio](logo.png)
 
+Enlace al [documento adicional](./extra.md).
 
 
 
