@@ -12,5 +12,5 @@ Este es un archivo adicional para practicar **Markdown**.
 console.log("Documento extra en Markdown");
 
 
-Enlace al [documento adicional](./README.md).
+
 
