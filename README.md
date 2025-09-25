@@ -31,7 +31,7 @@ Ya quedó en el ejemplo anterior con:
 
 
 ### Imagen local
-![Logo del repositorio](./images/logo.png)
+![Logo del repositorio]([./images/logo.png](https://plus.unsplash.com/premium_photo-1709579654090-3f3ca8f8416b?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bmF0dXJhbGV6YSUyMHBhaXNhamV8ZW58MHx8MHx8fDA%3D))
 
 
 
