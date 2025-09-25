@@ -31,7 +31,7 @@ Ya quedó en el ejemplo anterior con:
 
 
 ### Imagen local
-![Logo del repositorio](./images/logo.png)
+![Logo del repositorio](logo.png)
 
 
 
