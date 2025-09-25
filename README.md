@@ -31,6 +31,7 @@ Ya quedó en el ejemplo anterior con:
 
 
 ### Imagen local
-(https://via.placeholder.com/150)](https://openai.com)
+![Logo del repositorio](./images/logo.png)
+
 
 
