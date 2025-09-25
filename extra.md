@@ -10,3 +10,5 @@ Este es un archivo adicional para practicar **Markdown**.
 ### Ejemplo de código
 ```javascript
 console.log("Documento extra en Markdown");
+
+Enlace al [documento adicional](./README.md)
